@@ -24,8 +24,10 @@ Dit is de kubeconfig file. Deze is deels leesbaar, maar er staat ook een heleboe
 Deze file is dus belangrijk en moet je veilig bewaren, want met deze file krijg je toegang tot het cluster.
 
 De file heeft twee delen:
+
 1) clusters: dit is de sleutel van het cluster en geeft het API-adres van het cluster aan
+
 2) contexts: dit geeft aan hoe en met welke user je verbinding maakt met het cluster. Wederom op basis van een certificaat.
 
 je kan de file in katacoda ook in de verkenner bekijken boven in beeld of direct openen via deze optie:
-`\root\.kube\config`{{open}}
+`.kube/config`{{open}}
