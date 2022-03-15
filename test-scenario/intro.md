@@ -1,0 +1,1 @@
+Dit is een scenario om kennis te maken met Kubernetes. We beginnen met de commandlinetool "kubectl" en de kubeconfig file.
