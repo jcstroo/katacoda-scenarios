@@ -1,5 +1,5 @@
 # Kennismaken met Katacoda
-De testomgeving is nu beschikbaar! maar nog niet helemaal. Op de achtergrond bouwt het systeem nog een paar zaken op, dus niet te snel starten, heb even geduld en doorloop deze eerste kennismaking!
+De testomgeving is nu beschikbaar! Maar nog niet helemaal... Op de achtergrond bouwt het systeem nog een paar zaken op, dus niet te snel starten, heb even geduld en doorloop deze eerste kennismaking!
 
 ## Katacode
 In deze testomgeving kan en commando's typen in de shell (onderaan) en je kan file bekijken via de file explorer (bovenaan)
