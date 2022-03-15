@@ -12,9 +12,11 @@ De hele cursus is op deze manier gemaakt: een beetje uitleg en dan wat commando'
 
 Je mag ook gerust andere commando's intikken. Dat is geen probleem. Maar hou je wel aan de volgorde avan de opdrachten, anders loop je halverwege vast!
 
-En om het echt goed te leren raden we het aan om de commando's zelf in te typen. Als je alleen op de execute logo's klikt mis je toch een beetje dat oduerwetse gevoel van werken op de terminal :)
+En om het echt goed te leren raden we het aan om de commando's zelf in te typen. Als je alleen op de execute logo's klikt mis je toch een beetje dat echte gevoel van werken op de terminal :)
 
 ## Kunnen we al verder?
-Hopelijk is het systeem nu echt klaar! 
+Hopelijk is het systeem nu echt klaar! Voer onderstaande instructie uit om dit te controleren. En nee, deze hoef je niet over te typen :)
 
 `while [ ! -f /root/.kube/config ]; do sleep 1; done; echo "We kunnen verder!"`{{execute}}
+
+Zodra "We kunnen verder!" in beeld komt, kan je door naar de volgende stap!

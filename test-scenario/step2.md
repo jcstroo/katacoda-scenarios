@@ -28,4 +28,4 @@ De file heeft twee delen:
 2) contexts: dit geeft aan hoe en met welke user je verbinding maakt met het cluster. Wederom op basis van een certificaat.
 
 je kan de file in katacoda ook in de verkenner bekijken boven in beeld of direct openen via deze optie:
-`.kube\config`{{open}}
+`\root\.kube\config`{{open}}
