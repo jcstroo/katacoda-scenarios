@@ -2,9 +2,9 @@
 De testomgeving is nu beschikbaar! Maar nog niet helemaal... Op de achtergrond bouwt het systeem nog een paar zaken op, dus niet te snel starten, heb even geduld en doorloop deze eerste kennismaking!
 
 ## Katacoda
-In deze testomgeving kan en commando's typen in de shell (onderaan) en je kan file bekijken via de file explorer (bovenaan)
+In deze testomgeving kan en commando's typen in de shell (onderaan) en je kan file bekijken via de file explorer (bovenaan). De afmetingen van deze scermen kan je aanpassen. Probeer het maar! 
 
-Tik maar eens een commando in, bijvoorbeeld "ls -la".
+Tik ook maar eens een commando in, bijvoorbeeld "ls -la".
 
 Katacoda maakt het invoeren van commando's makkelijk voor je. Probeer nu dit commando nogmaals via het execute knopje achter het commando: `ls -la`{{execute}}
 
