@@ -1,27 +1,20 @@
-De test omgeving is nu beschikbaar! Op de achtergrond bouwt het systeem nog een paar zaken op, dus niet te snel starten, heb even geduld.
+# Kennismaken met Katacoda
+De testomgeving is nu beschikbaar! maar nog niet helemaal. Op de achtergrond bouwt het systeem nog een paar zaken op, dus niet te snel starten, heb even geduld en doorloop deze eerste kennismaking!
 
+## Katacode
 In deze testomgeving kan en commando's typen in de shell (onderaan) en je kan file bekijken via de file explorer (bovenaan)
 
 Tik maar eens een commando in, bijvoorbeeld "ls -la".
 
 Katacoda maakt het invoeren van commando's makkelijk voor je. Probeer nu dit commando nogmaals via het execute knopje achter het commando: `ls -la`{{execute}}
 
-Dat was om even op te warmen. Inmiddels zal de omgeving wel helemaal opgebowud zijn. Laten we dit controleren.
+De hele cursus is op deze manier gemaakt: een beetje uitleg en dan wat commando's om uit te voeren. Simpel!
 
-1) als het goed is zit je in de directory van de user "root"
-`pwd`{{execute}}
+Je mag ook gerust andere commando's intikken. Dat is geen probleem. Maar hou je wel aan de volgorde avan de opdrachten, anders loop je halverwege vast!
 
-2) zo niet, ga hier dan alsnog naar toe:
-`cd /root`{{execute}}
+En om het echt goed te leren raden we het aan om de commando's zelf in te typen. Als je alleen op de execute logo's klikt mis je toch een beetje dat oduerwetse gevoel van werken op de terminal :)
 
-3) bekijk nu de files en folders in deze directory:
-`ls -la`{{execute}}
+## Kunnen we al verder?
+Hopelijk is het systeem nu echt klaar! 
 
-4) je ziet een directory met de naam ".kube". Ga hier naar toe:
-`cd .kube`{{execute}}
-
-5) In de directory .kube staat meerdere files, waaronder een file genaamd "config"
-`ls -la`{{execute}}
-
-6) Lees deze file nu:
-`more config`{{execute}}
+`while [ ! -f /root/.kube/config ]; do sleep 1; done; echo "We kunnen verder!"`{{execute}}
