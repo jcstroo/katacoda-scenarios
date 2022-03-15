@@ -1,3 +1,3 @@
 This is another test
 
-`kubectl version --client` {{execute}}
+`kubectl version --client`{{execute}}
