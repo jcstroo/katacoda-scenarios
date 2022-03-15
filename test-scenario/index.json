@@ -1,20 +1,20 @@
 {
-  "title": "test-kubernetes-scenario",
-  "description": "test",
+  "title": "Kube Config en kubectl",
+  "description": "kennismaking met kubectl",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Katacoda leren kennen",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "De kube config file",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Kubectl gebruiken",
         "text": "step3.md"
       }
     ],
