@@ -17,6 +17,6 @@ En om het echt goed te leren raden we het aan om de commando's zelf in te typen.
 ## Kunnen we al verder?
 Hopelijk is het systeem nu echt klaar! Voer onderstaande instructie uit om dit te controleren. En nee, deze hoef je niet over te typen :)
 
-`while [ ! -f /root/.kube/config ]; do sleep 1; done; echo "We kunnen verder!"`{{execute}}
+`while [ ! -f /root/.kube/config ]; do sleep 5 && echo "nog even geduld..."; done && echo "We kunnen verder!"`{{execute}}
 
 Zodra "We kunnen verder!" in beeld komt, kan je door naar de volgende stap!

@@ -1,5 +1,4 @@
 # kubectl
-
 Als je met kubernetes wilt werken heb je de commandline "kubectl" (kubernetes control) nodig. Deze is al geinstalleerd op ons systeem. 
 
 Met kubectl kan je alles in je kubernetes cluster doen, van controles, tot en met het starten van werklasten en het aanmaken van loadbalancers. Het is echt heel krachtig!
