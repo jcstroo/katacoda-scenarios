@@ -1,6 +1,6 @@
 {
-  "title": "My first deployment",
-  "description": "een container starten met kubectl",
+  "title": "namespaces",
+  "description": "namespaces",
   "difficulty": "Beginner",
   "time": "20 minutes",
   "details": {
