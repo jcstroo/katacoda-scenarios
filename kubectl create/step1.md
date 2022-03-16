@@ -20,7 +20,7 @@ Net als eerder kan je ook meer details van de replicaset opvragen. Kopieer het c
 
 Je kan nu zien hoeveel replica's er verwacht worden onder de *annotations* en bij *Replica's*. En hier vinden we helemaal onderaan de naam van de POD. Die hebben we nu nodig!
 
-## POD
+## De POD
 Bij het maken van de deployment is een replicaset gemaakt (met één replica) én vanuit de replicaset is een POD gemaakt, waar de contianer in draait. Kijk maar naar de PODs: `kubectl get pod`{{execute}}.  
 
 Ook nu kan je weer aanvullende informatie opvragen met *kubectl describe*. kopieer het volgende commando en plak het in de terminal. Vul het aan met de naam de pod: `kubectl describe pod`{{copy}}
