@@ -1,5 +1,6 @@
+
 # tijd om op te ruimen
-Je deployment werkt! we hebben een werkende webserver opgeleverd en we gaandit nu weer opruimen. 
+Je deployment werkt! we hebben een werkende webserver opgeleverd en we gaan dit nu weer opruimen. 
 
 - verwijder eerst het deployment: `kubectl delete deployment test-deployment`{{execute}}
 - kijk nu of het deployment inderdaad weg is: `kubectl get deployment`{{execute}}
