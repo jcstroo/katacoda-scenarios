@@ -1,5 +1,5 @@
 {
-  "title": "namespaces en het interne netwerk",
+  "title": "Namespaces en het interne netwerk",
   "description": "namespaces en het interne netwerk",
   "difficulty": "Beginner",
   "time": "20 minutes",
@@ -16,6 +16,10 @@
       {
         "title": "Het interne netwerk (CNI)",
         "text": "step3.md"
+      }
+      {
+        "title": "Netwerk tools",
+        "text": "step4.md"
       }
     ],
     "intro": {
