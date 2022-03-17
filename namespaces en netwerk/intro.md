@@ -1,1 +1,1 @@
-leeg
+In dit scenario gaan we namespaces maken en kijken we naar het virtuele netwerk wat op de achtergrond wordt gemaakt.
