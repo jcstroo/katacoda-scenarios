@@ -14,4 +14,4 @@ We gaan nu één van onze werklasten van een *service* voorzien: `kubectl expose
 
 Controleer het resultaat en schrijf het IP adres op: `kubectl get service -n test1`{{execute}}
 
-**Schrijf het IP adres van dde service op!**
+**Schrijf het IP adres van de service op!**
