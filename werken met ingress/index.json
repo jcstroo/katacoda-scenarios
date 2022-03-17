@@ -2,7 +2,7 @@
   "title": "4) werken met Ingress",
   "description": "werken met Ingress",
   "difficulty": "Beginner",
-  "time": "20 minutes",
+  "time": "60 minutes",
   "details": {
     "steps": [
       {
@@ -33,6 +33,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster-running"
   }
 }
