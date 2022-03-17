@@ -1,24 +1,24 @@
 {
-  "title": "Namespaces en het interne netwerk",
-  "description": "namespaces en het interne netwerk",
+  "title": "werken met YAML files",
+  "description": "werken met YAML file",
   "difficulty": "Beginner",
   "time": "20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Nieuwe namespaces maken",
+        "title": "stap1",
         "text": "step1.md"
       },
       {
-        "title": "Werklasten maken in de namespaces",
+        "title": "stap2",
         "text": "step2.md"
       },
       {
-        "title": "Het interne netwerk (CNI)",
+        "title": "stap3",
         "text": "step3.md"
       },
       {
-        "title": "Netwerk tools",
+        "title": "stap4",
         "text": "step4.md"
       }
     ],
