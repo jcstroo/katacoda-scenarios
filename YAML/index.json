@@ -1,0 +1,38 @@
+{
+  "title": "Namespaces en het interne netwerk",
+  "description": "namespaces en het interne netwerk",
+  "difficulty": "Beginner",
+  "time": "20 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Nieuwe namespaces maken",
+        "text": "step1.md"
+      },
+      {
+        "title": "Werklasten maken in de namespaces",
+        "text": "step2.md"
+      },
+      {
+        "title": "Het interne netwerk (CNI)",
+        "text": "step3.md"
+      },
+      {
+        "title": "Netwerk tools",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
